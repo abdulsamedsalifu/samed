@@ -1,0 +1,28 @@
+body{
+    background-color: whitesmoke;
+}
+form{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+marquee{
+    font-style: italic;
+    font-size: x-large;
+    
+}
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px
+}
+table{
+    border: 1;
+    border-collapse: collapse;
+    border-radius: 50px;
+    border-color: rgb(212, 0, 255);
+
+}
+button{
+    color: blue;
+    background-color: grey;
+    border-radius: 15px;
+}
